@@ -1,0 +1,15 @@
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiValuesDictionary_ServiceTitan\bin\Debug\net6.0\MultiValuesDictionary_ServiceTitan.exe
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiValuesDictionary_ServiceTitan\bin\Debug\net6.0\MultiValuesDictionary_ServiceTitan.deps.json
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiValuesDictionary_ServiceTitan\bin\Debug\net6.0\MultiValuesDictionary_ServiceTitan.runtimeconfig.json
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiValuesDictionary_ServiceTitan\bin\Debug\net6.0\MultiValuesDictionary_ServiceTitan.dll
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiValuesDictionary_ServiceTitan\bin\Debug\net6.0\MultiValuesDictionary_ServiceTitan.pdb
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiValuesDictionary_ServiceTitan\obj\Debug\net6.0\MultiValuesDictionary_ServiceTitan.csproj.AssemblyReference.cache
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiValuesDictionary_ServiceTitan\obj\Debug\net6.0\MultiValuesDictionary_ServiceTitan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiValuesDictionary_ServiceTitan\obj\Debug\net6.0\MultiValuesDictionary_ServiceTitan.AssemblyInfoInputs.cache
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiValuesDictionary_ServiceTitan\obj\Debug\net6.0\MultiValuesDictionary_ServiceTitan.AssemblyInfo.cs
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiValuesDictionary_ServiceTitan\obj\Debug\net6.0\MultiValuesDictionary_ServiceTitan.csproj.CoreCompileInputs.cache
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiValuesDictionary_ServiceTitan\obj\Debug\net6.0\MultiValuesDictionary_ServiceTitan.dll
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiValuesDictionary_ServiceTitan\obj\Debug\net6.0\refint\MultiValuesDictionary_ServiceTitan.dll
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiValuesDictionary_ServiceTitan\obj\Debug\net6.0\MultiValuesDictionary_ServiceTitan.pdb
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiValuesDictionary_ServiceTitan\obj\Debug\net6.0\MultiValuesDictionary_ServiceTitan.genruntimeconfig.cache
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiValuesDictionary_ServiceTitan\obj\Debug\net6.0\ref\MultiValuesDictionary_ServiceTitan.dll

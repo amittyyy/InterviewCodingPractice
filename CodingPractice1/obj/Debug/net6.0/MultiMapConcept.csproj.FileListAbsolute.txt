@@ -1,0 +1,15 @@
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiMapConcept\bin\Debug\net6.0\MultiMapConcept.exe
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiMapConcept\bin\Debug\net6.0\MultiMapConcept.deps.json
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiMapConcept\bin\Debug\net6.0\MultiMapConcept.runtimeconfig.json
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiMapConcept\bin\Debug\net6.0\MultiMapConcept.dll
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiMapConcept\bin\Debug\net6.0\MultiMapConcept.pdb
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiMapConcept\obj\Debug\net6.0\MultiMapConcept.csproj.AssemblyReference.cache
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiMapConcept\obj\Debug\net6.0\MultiMapConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiMapConcept\obj\Debug\net6.0\MultiMapConcept.AssemblyInfoInputs.cache
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiMapConcept\obj\Debug\net6.0\MultiMapConcept.AssemblyInfo.cs
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiMapConcept\obj\Debug\net6.0\MultiMapConcept.csproj.CoreCompileInputs.cache
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiMapConcept\obj\Debug\net6.0\MultiMapConcept.dll
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiMapConcept\obj\Debug\net6.0\refint\MultiMapConcept.dll
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiMapConcept\obj\Debug\net6.0\MultiMapConcept.pdb
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiMapConcept\obj\Debug\net6.0\MultiMapConcept.genruntimeconfig.cache
+C:\Users\Amity Timalsina\source\repos\MultiMapConcept\MultiMapConcept\obj\Debug\net6.0\ref\MultiMapConcept.dll
