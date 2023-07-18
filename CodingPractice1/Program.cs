@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using CodingPractice;
 using MultiMapConcept;
 using System.Collections;
 
@@ -95,11 +96,14 @@ Console.WriteLine("Hello, World!");
 
 
 //Fibonacci Serise
-int[] arrayInt = new int[] {0,1,2,3,5,8,13,21};
+//int[] arrayInt = new int[] {0,1,2,3,5,8,13,21};
 
-Console.WriteLine(FibonacciSeries.fibonacciSer(10));
-Console.WriteLine(FibonacciSeries.generateFibonacci(21));
+//Console.WriteLine(FibonacciSeries.fibonacciSer(10));
+//Console.WriteLine(FibonacciSeries.generateFibonacci(21));
 
+//Is Prime Condition
+Console.WriteLine(PrimeNumbers.isPrimeLinq(17));
+Console.WriteLine(PrimeNumbers.isPrimeFor(17));
 
 Console.Read();
 
